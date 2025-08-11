@@ -11,7 +11,7 @@
 5) Para limpiar las columnas estado hacer clic en el boton "Limpiar estado"
 6) Para limpiar todos  los campos de ambos libros hacer clic en "Limpiar Todo"
 
-Aquellos movimientos que coincidan se indicaran en ambas secciones en la columna estado como "OK" 
-Aquellos movimientos que no encuentren coincidencias se resaltaran en rojo con la palabra "NO"
+- Aquellos movimientos que coincidan se indicaran en ambas secciones en la columna estado como "OK" 
+- Aquellos movimientos que no encuentren coincidencias se resaltaran en rojo con la palabra "NO"
 
 Debajo de los botones, podrá ver un reporte de la cantidad de coincidencias en Libro Mayor vs Libro bancos encontradas durante el proceso conciliatorio.
