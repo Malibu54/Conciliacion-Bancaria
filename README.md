@@ -24,4 +24,4 @@ Desarrollé una aplicación web para automatizar el proceso de conciliación ban
 Esta herramienta reduce significativamente el tiempo manual requerido para la conciliación bancaria, minimiza errores humanos y proporciona una visualización clara de las discrepancias que requieren atención, optimizando el proceso contable y mejorando la precisión en la gestión financiera.
 
 ## Tecnologías Utilizadas
- Python, Excel VBA
+Excel, VBA
