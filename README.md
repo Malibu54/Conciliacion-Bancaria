@@ -1,17 +1,27 @@
-# Conciliacion Bancaria
+# Sistema de Conciliación Bancaria
 
 ![Web Screenshot](/assets/image.png)
 
-## ¿Cómo lo uso?
 
-1) Bajar Libro Mayor y Libro Banco
-2) Insertar los movimientos del Libro Mayor en Libro Mayor
-3) Insertar los movimientos del Libro Banco en Libro Banco
-4) Hacer clic en el botón "Conciliar"
-5) Para limpiar las columnas estado hacer clic en el boton "Limpiar estado"
-6) Para limpiar todos  los campos de ambos libros hacer clic en "Limpiar Todo"
+## Descripción del Proyecto
 
-- Aquellos movimientos que coincidan se indicaran en ambas secciones en la columna estado como "OK" 
-- Aquellos movimientos que no encuentren coincidencias se resaltaran en rojo con la palabra "NO"
+Desarrollé una aplicación web para automatizar el proceso de conciliación bancaria, facilitando la comparación y validación de movimientos entre el Libro Mayor contable y los extractos bancarios.
 
-Debajo de los botones,en la sección Menu, podrá ver un reporte de la cantidad de coincidencias en Libro Mayor vs Libro bancos encontradas durante el proceso conciliatorio.
+## Funcionalidades Principales
+
+### Proceso de Conciliación
+- **Conciliación automática**: Un solo clic ejecuta el algoritmo de comparación entre ambos libros
+- **Identificación visual**: 
+  - Movimientos coincidentes marcados como "OK" 
+  - Discrepancias destacadas en rojo con indicador "NO"
+- **Limpieza de datos**: Opciones para resetear estados individuales o limpiar completamente ambos libros
+
+### Reportes y Análisis
+- **Coincidencias en tiempo real**: Reporte automático de la cantidad de coincidencias entre Libro Mayor vs Libro Banco
+
+## Valor Agregado
+
+Esta herramienta reduce significativamente el tiempo manual requerido para la conciliación bancaria, minimiza errores humanos y proporciona una visualización clara de las discrepancias que requieren atención, optimizando el proceso contable y mejorando la precisión en la gestión financiera.
+
+## Tecnologías Utilizadas
+ Python, Excel VBA
