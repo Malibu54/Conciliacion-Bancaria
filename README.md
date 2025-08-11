@@ -14,4 +14,4 @@
 - Aquellos movimientos que coincidan se indicaran en ambas secciones en la columna estado como "OK" 
 - Aquellos movimientos que no encuentren coincidencias se resaltaran en rojo con la palabra "NO"
 
-Debajo de los botones, podrá ver un reporte de la cantidad de coincidencias en Libro Mayor vs Libro bancos encontradas durante el proceso conciliatorio.
+Debajo de los botones,en la sección Menu, podrá ver un reporte de la cantidad de coincidencias en Libro Mayor vs Libro bancos encontradas durante el proceso conciliatorio.
